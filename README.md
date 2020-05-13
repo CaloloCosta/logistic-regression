@@ -24,7 +24,7 @@ gorithm in Julia;
   **recall:** the proportion of clients that actually placed a term deposit which was predicted by the classifier
   
   
-  ![METADATA TABLE](Metadata Table.png)
+  ![METADATA TABLE](Metadata_Table.png)
   
  ## Submission Instructions
  - This project is to be completed by groups of maximum two (2) students each.
