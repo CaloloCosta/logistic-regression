@@ -16,6 +16,9 @@ The following criteria will be followed to assess your submission:
 gorithm in Julia;
 - Design and implementation of the classifier;
 - Performance metrics including *(It is advised to use a confusion matrix.)*:
- **accuracy:** the proportion of correct predictions (clients correctly pre-dicted to have placed a term deposit or not) over all predictions;
- **precision:** the proportion of clients the classifier predicted have placed a term deposit actually did so;
- **recall:** the proportion of clients that actually placed a term deposit which was predicted by the classifier
+
+  **accuracy:** the proportion of correct predictions (clients correctly pre-dicted to have placed a term deposit or not) over all predictions;
+ 
+  **precision:** the proportion of clients the classifier predicted have placed a term deposit actually did so;
+
+  **recall:** the proportion of clients that actually placed a term deposit which was predicted by the classifier
