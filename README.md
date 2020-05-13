@@ -24,6 +24,8 @@ gorithm in Julia;
   **recall:** the proportion of clients that actually placed a term deposit which was predicted by the classifier
   
   
+  ![METADATA TABLE](Metadata Table.png)
+  
  ## Submission Instructions
  - This project is to be completed by groups of maximum two (2) students each.
  - For each group, a repository should be created either on Github 2 or Gitlab 3 . The URL of the repository should be communicated by Thursday, May 14 th 2020, with all group members set up as contributors.
