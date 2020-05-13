@@ -28,7 +28,7 @@ gorithm in Julia;
   
  ## Submission Instructions
  - This project is to be completed by groups of maximum two (2) students each.
- - For each group, a repository should be created either on Github 2 or Gitlab 3 . The URL of the repository should be communicated by Thursday, May 14 th 2020, with all group members set up as contributors.
+ - For each group, a repository should be created either on Github or Gitlab. The URL of the repository should be communicated by Thursday, May 14 th 2020, with all group members set up as contributors.
  - The submission date is Monday, May 25 th 2020, midnight.
  - A submission will be assessed based on the clone of its repository at the deadline.
  - Any group who fails to submit on time will be awarded the mark 0.
